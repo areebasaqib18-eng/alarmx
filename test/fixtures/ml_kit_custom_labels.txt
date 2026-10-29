@@ -1,0 +1,30 @@
+LBL|Keys.jpg|chime:0.15,bolo tie:0.10,padlock:0.05,safety pin:0.05,hook:0.04,matchstick:0.03
+LBL|bag.jpg|mailbag:0.40,purse:0.28,shopping basket:0.05
+LBL|ball.jpg|tennis ball:0.95
+LBL|book.jpg|scale:0.15,notebook:0.13,ping-pong ball:0.10,tray:0.09,binder:0.08,book jacket:0.08,envelope:0.06,solar dish:0.03,window screen:0.03,laptop:0.02,modem:0.02
+LBL|bottle cap.jpg|bucket:0.49,pencil sharpener:0.11,pill bottle:0.07,sunscreen:0.04,water bottle:0.03,bottlecap:0.02,nipple:0.02
+LBL|bottle.jpg|beaker:0.63,hourglass:0.10,paper towel:0.03
+LBL|chair.jpg|rocking chair:0.61,dining table:0.10,folding chair:0.05,studio couch:0.02
+LBL|comb.jpg|hair slide:0.15,oil filter:0.13,radiator:0.05,nail:0.04,spotlight:0.04,modem:0.03,projector:0.03,pencil sharpener:0.02,grille:0.02
+LBL|cup.jpg|cup:0.60,coffee mug:0.19,pitcher:0.02
+LBL|glasses.jpg|sunglasses:0.24,sunglass:0.13,hair slide:0.13,hook:0.04,scabbard:0.02
+LBL|headphones.jpg|teapot:0.19,hook:0.15,pitcher:0.08,water jug:0.07,ladle:0.04,microphone:0.03,stethoscope:0.03,loudspeaker:0.02
+LBL|keyboard.jpg|space bar:0.43,computer keyboard:0.40,typewriter keyboard:0.06,mouse:0.03
+LBL|laptop.jpg|notebook:0.53,desktop computer:0.09,monitor:0.07,laptop:0.04,screen:0.03
+LBL|mouse.jpg|mouse:0.97
+LBL|notebook.jpg|notebook:0.28,hard disc:0.18,scale:0.11,modem:0.05,laptop:0.04,binder:0.03,wallet:0.02
+LBL|pen.jpg|ballpoint:0.77,fountain pen:0.21
+LBL|phone.jpg|iPod:0.66,cellular telephone:0.21,remote control:0.05
+LBL|pillow.jpg|studio couch:0.48,quilt:0.26,pillow:0.02
+LBL|plate.jpg|toilet seat:0.24,cup:0.10,mortar:0.08,washbasin:0.06,frying pan:0.02,spotlight:0.02,plate:0.02
+LBL|remote.jpg|remote control:0.90
+LBL|shoes.jpg|running shoe:0.76,Loafer:0.08,clog:0.07,sandal:0.03
+LBL|soap.jpg|rubber eraser:0.20,perfume:0.13,pencil sharpener:0.09,digital clock:0.05,purse:0.04,lotion:0.03,candle:0.02,lipstick:0.02
+LBL|spoon.jpg|soap dispenser:0.14,can opener:0.12,loudspeaker:0.05,strainer:0.04,microphone:0.03,frying pan:0.03,ladle:0.02
+LBL|teddy_bear.jpg|teddy:0.88
+LBL|toothbrush.jpg|swab:0.15,paintbrush:0.10,screwdriver:0.09,broom:0.06,ballpoint:0.05,letter opener:0.05,rubber eraser:0.05,pencil sharpener:0.02,spatula:0.02,matchstick:0.02
+LBL|toothpaste.jpg|whistle:0.23,can opener:0.17,packet:0.09,rubber eraser:0.07,sunscreen:0.04,lighter:0.04,screwdriver:0.03
+LBL|towel.jpg|bath towel:0.79,wool:0.12
+LBL|umbrella.jpg|umbrella:0.99
+LBL|wallet.jpg|wallet:0.29,doormat:0.25,binder:0.06,wool:0.04,loudspeaker:0.04,velvet:0.02
+LBL|watch.jpg|magnetic compass:0.32,analog clock:0.22,stopwatch:0.16,digital watch:0.12

@@ -1,0 +1,61 @@
+﻿=========================================
+   ALARMX - WHAT TO DO WHEN
+=========================================
+
+EASIEST WAY: double-click  run-alarmx.bat  (in C:\projects\alarmx)
+and pick a number from the menu.
+
+-----------------------------------------
+I WANT TO RUN ON MY PHONE
+-----------------------------------------
+1. Plug phone in with a DATA USB cable.
+2. Phone: Settings > Developer options > USB debugging = ON
+   (No Developer options? Settings > About phone > tap "Build number" 7 times)
+3. Tap "Allow" on the phone popup (tick "Always allow").
+4. Run menu option 1 -- OR in VS Code: pick phone bottom-right, press F5.
+
+-----------------------------------------
+I WANT TO RUN ON THE EMULATOR
+-----------------------------------------
+Run menu option 2 -- OR in VS Code: click device bottom-right >
+"Start Pixel_7", wait for home screen, press F5.
+
+-----------------------------------------
+WHILE THE APP IS RUNNING (in the terminal)
+-----------------------------------------
+  r  = hot reload (see code changes fast)
+  R  = full restart
+  q  = quit
+In VS Code: just save the file (Ctrl+S) to hot reload.
+
+-----------------------------------------
+PROBLEM: "Waiting for another flutter command..."
+         OR phone / emulator not showing
+-----------------------------------------
+1. Stop the app (Shift+F5 in VS Code) or close VS Code.
+2. Run menu option 4 (FIX).
+3. Unplug + replug the phone.
+4. Try again.
+
+-----------------------------------------
+PROBLEM: strange build errors / Gradle errors
+-----------------------------------------
+Run menu option 6 (Clean), then run again.
+
+-----------------------------------------
+I WANT AN APK FILE TO INSTALL / SHARE
+-----------------------------------------
+Run menu option 5. File ends up at:
+  build\app\outputs\flutter-apk\app-release.apk
+
+-----------------------------------------
+VS CODE OR ANDROID STUDIO?
+-----------------------------------------
+Either works. VS Code is fine. Don't run from BOTH at the
+same time - that causes the "stuck" problem.
+
+Paths (for reference):
+  Android SDK: C:\android\Sdk
+  Flutter:     C:\src\flutter
+
+
